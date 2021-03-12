@@ -1,0 +1,6 @@
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\bin\Debug\GameCsharp.exe
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\bin\Debug\GameCsharp.pdb
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\obj\Debug\GameCsharp.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\obj\Debug\GameCsharp.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\obj\Debug\GameCsharp.exe
+C:\Users\domin\Desktop\Geometry\GameCsharp\GameCsharp\obj\Debug\GameCsharp.pdb
