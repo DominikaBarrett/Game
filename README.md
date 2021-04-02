@@ -7,6 +7,9 @@ namespace GameCsharp
     public class Game
     {
         private string GameTitleArt = @"
+        
+
+        
  ██████╗  █████╗ ███╗   ███╗███████╗
 ██╔════╝ ██╔══██╗████╗ ████║██╔════╝
 ██║  ███╗███████║██╔████╔██║█████╗  
